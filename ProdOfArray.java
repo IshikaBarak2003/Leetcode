@@ -7,5 +7,6 @@ class Solution {
             prod*=nums[i];
         }
         return prod>0 ? 1:-1;
+        //newww
     }
 }
