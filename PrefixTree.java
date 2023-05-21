@@ -7,6 +7,7 @@ class TrieNode {
         children = new TrieNode[26]; // 26 English lowercase letters
     }
 }
+//prefix
 
 class Trie {
     TrieNode root;
