@@ -18,5 +18,6 @@ class Solution {
         second.val = temp;
 
         return head;
+        //return
     }
 }
