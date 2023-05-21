@@ -7,6 +7,6 @@ class Solution {
             xor=xor & (xor-1);
         }
         return count;
-        
+        //easy
     }
 }
