@@ -25,6 +25,7 @@ class Solution {
                     result.add(matrix[bottom][i]);
                 }
                 bottom--;
+                //bottom
             }
             
             if (left <= right) {
